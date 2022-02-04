@@ -20,3 +20,17 @@ NOTION_DATABASE_ID = [Database ID]
 ## Remix
 
 [tailwindcss for remix](https://tailwindcss.com/docs/guides/remix)
+
+.env
+
+```
+NOTION_API_KEY = [Secrets Internal Integration Token]
+NOTION_DATABASE_ID = [Database ID]
+```
+
+## Todo
+
+- [ ] next.js
+- [ ] remix
+- [ ] notion database API
+- [ ] test
